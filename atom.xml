@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Freyja Development Team]]></title>
+  <link href="http://freyja-dev.github.com/atom.xml" rel="self"/>
+  <link href="http://freyja-dev.github.com/"/>
+  <updated>2013-03-17T22:14:03+05:30</updated>
+  <id>http://freyja-dev.github.com/</id>
+  <author>
+    <name><![CDATA[freyja-dev]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
