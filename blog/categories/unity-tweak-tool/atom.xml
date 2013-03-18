@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Freyja Development Team]]></title>
-  <link href="http://freyja-dev.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: unity-tweak-tool | Freyja Development Team]]></title>
+  <link href="http://freyja-dev.github.com/blog/categories/unity-tweak-tool/atom.xml" rel="self"/>
   <link href="http://freyja-dev.github.com/"/>
   <updated>2013-03-18T13:10:30+05:30</updated>
   <id>http://freyja-dev.github.com/</id>
@@ -20,7 +20,7 @@
     <id>http://freyja-dev.github.com/blog/2013/03/18/unity-tweak-tool-is-now-in-the-raring-repository</id>
     <content type="html"><![CDATA[<h3>Unity Tweak Tool is now in the Raring repository!</h3>
 
-<p>It&#8217;s been wholly four months since we started development on unity-tweak-tool and two months since it was <a href="http://unbrokenspectrum.wordpress.com/2013/01/11/unity-tweak-tool-for-the-power-user-in-you/">available for wider testing</a>. And now, finally, it is in the Ubuntu repository for 13.04 release!</p>
+<p>It's been wholly four months since we started development on unity-tweak-tool and two months since it was <a href="http://unbrokenspectrum.wordpress.com/2013/01/11/unity-tweak-tool-for-the-power-user-in-you/">available for wider testing</a>. And now, finally, it is in the Ubuntu repository for 13.04 release!</p>
 
 <p>Many thanks to the MOTU reviewers Daniel Holbach, Michael Terry and Bhavani Shankar, who also sponsored the package. Also extending the cordiality to Adam Conrad (~infinity) for a final review on the distributability of the package as an archive admin. And, last but not the least, thanks to the Ubuntu community for their feedback during the development, which was really helpful in shaping this product for the better.</p>
 
@@ -48,7 +48,7 @@
 </ul>
 
 
-<p>Please do keep in mind that these plans are tentative in nature and it very much depends on how Unity development pans out over the next year or so. We&#8217;ll try our best to create a tweak tool for the Qt/QML based Unity as and when it becomes available for users.</p>
+<p>Please do keep in mind that these plans are tentative in nature and it very much depends on how Unity development pans out over the next year or so. We'll try our best to create a tweak tool for the Qt/QML based Unity as and when it becomes available for users.</p>
 ]]></content>
   </entry>
   
